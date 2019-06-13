@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/taipei-songshan-airport/static/css/main.5bb2ecba.chunk.css",
+    "main.js": "/taipei-songshan-airport/static/js/main.3358ae8a.chunk.js",
+    "main.js.map": "/taipei-songshan-airport/static/js/main.3358ae8a.chunk.js.map",
+    "runtime~main.js": "/taipei-songshan-airport/static/js/runtime~main.7c2c2285.js",
+    "runtime~main.js.map": "/taipei-songshan-airport/static/js/runtime~main.7c2c2285.js.map",
+    "static/js/2.d378c499.chunk.js": "/taipei-songshan-airport/static/js/2.d378c499.chunk.js",
+    "static/js/2.d378c499.chunk.js.map": "/taipei-songshan-airport/static/js/2.d378c499.chunk.js.map",
+    "index.html": "/taipei-songshan-airport/index.html",
+    "precache-manifest.16a2775801893dc1bce93955f1353548.js": "/taipei-songshan-airport/precache-manifest.16a2775801893dc1bce93955f1353548.js",
+    "service-worker.js": "/taipei-songshan-airport/service-worker.js",
+    "static/css/main.5bb2ecba.chunk.css.map": "/taipei-songshan-airport/static/css/main.5bb2ecba.chunk.css.map",
+    "static/media/erik-odiin-539947-unsplash.jpg": "/taipei-songshan-airport/static/media/erik-odiin-539947-unsplash.3ef389dd.jpg",
+    "static/media/icons8-delete.svg": "/taipei-songshan-airport/static/media/icons8-delete.a66d16f9.svg",
+    "static/media/icons8-menu.svg": "/taipei-songshan-airport/static/media/icons8-menu.1369fdae.svg",
+    "static/media/jay-wennington-2065-unsplash.jpg": "/taipei-songshan-airport/static/media/jay-wennington-2065-unsplash.914b8563.jpg",
+    "static/media/john-matychuk-393455-unsplash.jpg": "/taipei-songshan-airport/static/media/john-matychuk-393455-unsplash.03a35530.jpg",
+    "static/media/base.css": "/taipei-songshan-airport/static/media/josue-isai-ramos-figueroa-587073-unsplash.068049c5.jpg",
+    "static/media/nikola-ancevski-531651-unsplash.jpg": "/taipei-songshan-airport/static/media/nikola-ancevski-531651-unsplash.25aea88d.jpg"
+  }
+}
